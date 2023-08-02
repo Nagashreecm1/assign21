@@ -1,0 +1,8 @@
+C:\dialytask\Day_19\assign21\bin\Debug\assign21.exe.config
+C:\dialytask\Day_19\assign21\bin\Debug\assign21.exe
+C:\dialytask\Day_19\assign21\bin\Debug\assign21.pdb
+C:\dialytask\Day_19\assign21\obj\Debug\assign21.csproj.AssemblyReference.cache
+C:\dialytask\Day_19\assign21\obj\Debug\assign21.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_19\assign21\obj\Debug\assign21.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_19\assign21\obj\Debug\assign21.exe
+C:\dialytask\Day_19\assign21\obj\Debug\assign21.pdb
